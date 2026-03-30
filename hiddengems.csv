@@ -1,0 +1,101 @@
+title,genre,publisher,critic_score,total_sales_millions,category
+"Grand Theft Auto V",Action,"Rockstar Games",9.4,20.32,Legendary
+"Grand Theft Auto V",Action,"Rockstar Games",9.7,19.39,Legendary
+"Grand Theft Auto: Vice City",Action,"Rockstar Games",9.6,16.15,Legendary
+"Grand Theft Auto V",Action,"Rockstar Games",7.3,15.86,Standard
+"Call of Duty: Black Ops 3",Shooter,Activision,8.1,15.09,Standard
+"Call of Duty: Modern Warfare 3",Shooter,Activision,8.7,14.82,Standard
+"Call of Duty: Black Ops",Shooter,Activision,8.8,14.74,Standard
+"Red Dead Redemption 2",Action-Adventure,"Rockstar Games",9.8,13.94,Legendary
+"Call of Duty: Black Ops II",Shooter,Activision,8.4,13.86,Standard
+"Call of Duty: Black Ops II",Shooter,Activision,8,13.8,Standard
+"Call of Duty: Modern Warfare 2",Shooter,Activision,9.5,13.53,Legendary
+"Call of Duty: WWII",Shooter,Activision,8.1,13.4,Standard
+"Call of Duty: Modern Warfare 3",Shooter,Activision,8.8,13.35,Standard
+"Grand Theft Auto III",Action,"Rockstar Games",9.5,13.1,Legendary
+"Call of Duty: Black Ops",Shooter,Activision,8.7,12.67,Standard
+"FIFA 18",Sports,"EA Sports",8.3,11.8,Standard
+"Grand Theft Auto IV",Action,"Rockstar Games",10,11.09,Legendary
+"FIFA 17",Sports,"Electronic Arts",8.9,10.94,Standard
+"Call of Duty: Modern Warfare 2",Shooter,Activision,9.5,10.61,Legendary
+"Grand Theft Auto IV",Action,"Rockstar Games",10,10.57,Legendary
+"Call of Duty: Ghosts",Shooter,Activision,6.9,10.41,Standard
+"Call of Duty: Ghosts",Shooter,Activision,7.5,10.13,Standard
+"Halo: Reach",Shooter,"Microsoft Game Studios",9.3,9.97,Legendary
+"Halo 4",Shooter,"Microsoft Studios",7.3,9.96,Standard
+"Call of Duty 4: Modern Warfare",Shooter,Activision,9.6,9.41,Legendary
+"Call of Duty: Black Ops IIII",Shooter,Activision,7.3,9.32,Standard
+"FIFA 19",Sports,"Electronic Arts",7.3,9.15,Standard
+"The Elder Scrolls V: Skyrim",Role-Playing,"Bethesda Softworks",9.3,8.88,Legendary
+"Grand Theft Auto V",Action,"Rockstar Games",9,8.72,Legendary
+"Call of Duty: Infinite Warfare",Shooter,Activision,7.9,8.48,Standard
+"Fallout 4",Role-Playing,"Bethesda Softworks",8.6,8.48,Standard
+"FIFA 16",Sports,"EA Sports",8.5,8.22,Standard
+"Star Wars Battlefront (2015)",Shooter,"Electronic Arts",7.1,8.03,Standard
+"FIFA 13",Sports,"EA Sports",7.3,8.01,Standard
+"The Sims 3",Simulation,"Electronic Arts",8.5,7.96,Standard
+"Grand Theft Auto: Liberty City Stories",Action,"Rockstar Games",8.8,7.72,Standard
+"Call of Duty: Advanced Warfare",Shooter,Activision,8.5,7.53,Standard
+"Call of Duty: World at War",Shooter,Activision,8.5,7.5,Standard
+"Call of Duty: Black Ops 3",Shooter,Activision,7.3,7.37,Standard
+"Battlefield 3",Shooter,"Electronic Arts",8.5,7.35,Standard
+"Battlefield 1",Shooter,"Electronic Arts",9.1,7.26,Legendary
+"Battlefield 3",Shooter,"Electronic Arts",8.5,7.21,Standard
+"Need for Speed Underground",Racing,"Electronic Arts",8.6,7.2,Standard
+"Need for Speed Underground 2",Racing,"Electronic Arts",8.3,6.9,Standard
+"Just Dance 4",Music,Ubisoft,7.3,6.89,Standard
+"Medal of Honor: Frontline",Shooter,"Electronic Arts",9,6.83,Legendary
+"Uncharted 2: Among Thieves",Action,"Sony Computer Entertainment",9.5,6.74,Legendary
+"Call of Duty 4: Modern Warfare",Shooter,Activision,9.5,6.72,Legendary
+"FIFA Soccer 12",Sports,"EA Sports",9.2,6.65,Legendary
+"FIFA 14",Sports,"EA Sports",7.3,6.61,Standard
+"Red Dead Redemption",Action,"Rockstar Games",9.5,6.57,Legendary
+"Red Dead Redemption",Action,"Rockstar Games",9.5,6.5,Legendary
+"Assassin's Creed III",Action-Adventure,Ubisoft,8.8,6.5,Standard
+"The Elder Scrolls V: Skyrim",Role-Playing,"Bethesda Softworks",9,6.49,Legendary
+Minecraft,Misc,"Sony Computer Entertainment",9.4,6.33,Legendary
+"FIFA 15",Sports,"EA Sports",8.1,6.32,Standard
+Driver,Action,"GT Interactive",8.5,6.27,Standard
+"Call of Duty: WWII",Shooter,Activision,7.3,6.23,Standard
+Minecraft,Misc,"Sony Computer Entertainment America",7.3,6.05,Standard
+"Red Dead Redemption 2",Action-Adventure,"Rockstar Games",7.3,5.77,Standard
+Destiny,Shooter,Activision,7.3,5.76,Standard
+"Tekken 2",Fighting,Namco,9.1,5.74,Legendary
+"LEGO Star Wars: The Complete Saga",Action,LucasArts,8,5.66,Standard
+"Cooking Mama",Simulation,Majesco,6.6,5.66,Standard
+"Assassin's Creed II",Action,Ubisoft,9,5.57,Legendary
+"Assassin's Creed",Action,Ubisoft,8.2,5.55,Standard
+"Batman: Arkham City",Action,"Warner Bros. Interactive",9.6,5.54,Legendary
+"Forza Motorsport 3",Racing,"Microsoft Game Studios",9.2,5.5,Legendary
+"Call of Duty: World at War",Shooter,Activision,8.4,5.43,Standard
+Minecraft,Misc,"Microsoft Studios",7.3,5.43,Standard
+"Crash Bandicoot: The Wrath of Cortex",Platform,"Universal Interactive",6.9,5.42,Standard
+"Final Fantasy XIII",Role-Playing,"Square Enix",8,5.35,Standard
+"Assassin's Creed III",Action-Adventure,Ubisoft,7.3,5.31,Standard
+"Assassin's Creed II",Action,Ubisoft,9.1,5.3,Legendary
+"Tomb Raider II",Adventure,"Eidos Interactive",7.6,5.24,Standard
+"Madden NFL 2004",Sports,"EA Sports",9.5,5.23,Legendary
+"Call of Duty: Advanced Warfare",Shooter,Activision,8.3,5.22,Standard
+"Medal of Honor: Rising Sun",Shooter,"Electronic Arts",5.9,5.13,"Hidden Gem"
+"Battlefield 1",Shooter,"Electronic Arts",9.3,5.13,Legendary
+"Microsoft Flight Simulator",Simulation,Microsoft,7,5.12,Standard
+"Guitar Hero II",Misc,RedOctane,9.2,5.12,Legendary
+"FIFA 13",Sports,"EA Sports",7.3,5.11,Standard
+"Mario & Sonic at the Olympic Games",Sports,Sega,7,5.1,Standard
+"Fable III",Role-Playing,"Microsoft Game Studios",7.8,5.1,Standard
+"Resident Evil 5",Action,Capcom,8.6,5.1,Standard
+"FIFA Soccer 11",Sports,"EA Sports",8.7,5.08,Standard
+"Grand Theft Auto: Vice City Stories",Action,"Rockstar Games",8.4,5.08,Standard
+"Final Fantasy XV",Role-Playing,"Square Enix",8.1,5.07,Standard
+"Fallout 4",Role-Playing,"Bethesda Softworks",8.4,5.03,Standard
+"Tony Hawk's Pro Skater",Sports,Activision,9.6,5.02,Legendary
+"Warzone 2100",Strategy,"Eidos Interactive",7.3,5.01,Standard
+"Guitar Hero III: Legends of Rock",Misc,RedOctane,8.2,4.98,Standard
+"Uncharted: Drake's Fortune",Action,"Sony Computer Entertainment",8.7,4.97,Standard
+"Fallout 3",Role-Playing,"Bethesda Softworks",9,4.96,Standard
+"Madden NFL 06",Sports,"EA Sports",9.1,4.91,Standard
+"Call of Duty: Black Ops IIII",Shooter,Activision,7.3,4.85,Standard
+"Assassin's Creed",Action,Ubisoft,8.2,4.83,Standard
+"Crash Bandicoot N. Sane Trilogy",Platform,Activision,7.3,4.83,Standard
+"Call of Duty: Infinite Warfare",Shooter,Activision,7.3,4.79,Standard
+"Crash Team Racing",Racing,"Sony Computer Entertainment",9.2,4.79,Standard
