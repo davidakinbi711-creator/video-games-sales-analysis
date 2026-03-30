@@ -1,5 +1,3 @@
-# video-games-sales-analysis
-Analysing 40 years of video game sales using MySQL and Tableau
 # Video Games Sales Analysis 1977–2020
 
 ## Overview
